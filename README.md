@@ -53,4 +53,7 @@ Nós estamos utilizando assert para garantir que seu código está retornando va
 ![captura de tela 2018-12-29 as 19 57 15](https://user-images.githubusercontent.com/35881112/50542440-86770580-0ba4-11e9-9d0f-0c1beba86382.png)
 ## Tarefa 2, 3, 4 e 5
 ![captura de tela 2018-12-29 as 19 57 52](https://user-images.githubusercontent.com/35881112/50542441-8971f600-0ba4-11e9-8b5c-00818d737ee2.png)
-## Tarefa
+## Tarefa 6, 7, 8 e 9
+![captura de tela 2018-12-29 as 20 06 19](https://user-images.githubusercontent.com/35881112/50542476-4cf2ca00-0ba5-11e9-9089-1d960d837fa1.png)
+### Graficos:
+
