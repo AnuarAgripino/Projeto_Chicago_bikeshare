@@ -1,2 +1,2 @@
-# Projeto_Chicago_bikeshare
-Projeto I - Udacity - Chicago Bikeshare
+# Udacity Fundamentos de IA e Machine Learning
+Projeto I - Chicago Bikeshare
