@@ -1,7 +1,7 @@
 # Udacity Fundamentos de IA e Machine Learning
 Projeto I - Chicago Bikeshare
 
-# Detalhes do projeto
+# Detalhes do projeto:
 
 ## Dados sobre compartilhamento de bicicletas
 Na última década, os sistemas de compartilhamento de bicicletas têm crescido em número e popularidade nas cidades de todo o mundo. Sistemas de compartilhamento de bicicletas permitem que os usuários aluguem bicicletas por um período curtíssimo, por um preço específico. Isso permite que pessoas retirem uma bicicleta do ponto A e a devolvam no ponto B, embora também possam devolvê-la no mesmo local, caso queiram apenas sair para um passeio. Independentemente disso, cada bicicleta pode servir vários usuários por dia.
