@@ -26,18 +26,18 @@ Os dados para os primeiros seis meses de 2017 são fornecidos. O arquivo de dado
 ### As perguntas
 Você vai escrever um código para completar as seguintes tarefas sobre os dados de compartilhamento de bicicletas:
 
-- Tarefa 1: Mostre as 20 primeiras amostras (linhas) da base de dados
-- Tarefa 2: Mostre o gênero (coluna) das 20 primeiras amostras
-- Tarefa 3: Cria uma função para pegar colunas como lista
-- Tarefa 4: Conte quantas pessoas de cada gênero
-- Tarefa 5: Crie uma função para contar os gêneros
-- Tarefa 6: Mostre o gênero mais popular
-- Tarefa 7: Mostre um gráfico usando os dados anteriores
-- Tarefa 8: Responda o motivo do número de homens e mulheres não bater com a quantidade de amostras
-- Tarefa 9: Encontre o valor mínimo, máximo, média e mediana da duração de viagens
-- Tarefa 10: Mostre todas as estações da base de dados
-- Tarefa 11: Confira se documentou todas suas funções
-- Tarefa 12: Crie uma função que conte a ocorrência de qualquer coluna (opcional)
+- [x] Tarefa 1: Mostre as 20 primeiras amostras (linhas) da base de dados
+- [x] Tarefa 2: Mostre o gênero (coluna) das 20 primeiras amostras
+- [x] Tarefa 3: Cria uma função para pegar colunas como lista
+- [x] Tarefa 4: Conte quantas pessoas de cada gênero
+- [x] Tarefa 5: Crie uma função para contar os gêneros
+- [x] Tarefa 6: Mostre o gênero mais popular
+- [x] Tarefa 7: Mostre um gráfico usando os dados anteriores
+- [x] Tarefa 8: Responda o motivo do número de homens e mulheres não bater com a quantidade de amostras
+- [x] Tarefa 9: Encontre o valor mínimo, máximo, média e mediana da duração de viagens
+- [x] Tarefa 10: Mostre todas as estações da base de dados
+- [x] Tarefa 11: Confira se documentou todas suas funções
+- [x] Tarefa 12: Crie uma função que conte a ocorrência de qualquer coluna (opcional)
 
 ## Passo a passo do código
 
