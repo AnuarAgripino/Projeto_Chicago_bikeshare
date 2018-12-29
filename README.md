@@ -47,3 +47,5 @@ Você deve preencher o código chicago_bikeshare_pt.py nos locais com comentári
 
 ### ASSERTs
 Nós estamos utilizando assert para garantir que seu código está retornando valores esperados ou que a saída do seu código está no formato correto. NÃO ALTERE ELES. Se você não conseguir passar por um assert, peça ajuda no fórum ou busque ajuda na internet.
+
+# Screenshots: resultado do terminal e graficos
