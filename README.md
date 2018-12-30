@@ -1,4 +1,4 @@
-# Udacity Fundamentos de IA e Machine Learning
+# Udacity Fundamentos de IA & Machine Learning
 Projeto I - Chicago Bikeshare
 
 # Detalhes do projeto:
