@@ -411,7 +411,7 @@ def count_type_user(data_list):
             gender_f += 1
     return [gender_nulo, gender_m, gender_f]
 
-
+# Gráfico da quantidade total de gêneros da lista: nulo, male e female
 gender_list = column_to_list(data_list, -2)
 types = ["nulo", "Male", "Female"]
 quantity = count_type_user(data_list)
